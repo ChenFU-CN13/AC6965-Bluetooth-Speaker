@@ -1,0 +1,11 @@
+# 杰理原厂资料（第三方版权，不入库）
+/AC6965A完整资料/
+# 冗余打包文件
+/PDF_Mini-Bluetooth-Speaker_2026-08-10.zip
+
+# OS / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
